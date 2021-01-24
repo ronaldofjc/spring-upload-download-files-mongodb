@@ -46,4 +46,5 @@ Lombok
 ## Swagger
 
 - The generated swagger html page is available in the following address
+  
   `http://localhost:8080/swagger-ui/index.html?configUrl=/api-docs/swagger-config#/`
